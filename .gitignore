@@ -1,0 +1,12 @@
+target/
+node_modules/
+cdk.out/
+*.class
+*.jar
+.DS_Store
+.env
+.aws/
+*.pem
+*.key
+.idea/
+.vscode/
